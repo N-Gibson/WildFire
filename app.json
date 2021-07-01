@@ -1,0 +1,12 @@
+{
+  "name": "WildFire",
+  "displayName": "WildFire",
+  "expo": {
+    "name": "WildFire",
+    "slug": "WildFire",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
